@@ -1,1 +1,1 @@
-web: node 71.0.mvc.js
+web: node 72.1.mvc.js
